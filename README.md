@@ -47,5 +47,6 @@ This command allows operators to set the duration of Combat Mode (in seconds).
 
 
 
--# This project is an AI-based project developed using artificial intelligence technologies.
--# 해당 프로젝트는 AI 기술을 활용하여 개발된 프로젝트입니다.
+#### This project is an AI-based project developed using artificial intelligence technologies.
+
+#### 해당 프로젝트는 AI 기술을 활용하여 개발된 프로젝트입니다.
