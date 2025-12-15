@@ -14,7 +14,7 @@ Features
 
 OP Command
 ```
-/combatmode set <time_in_seconds>
+/전투모드 설정 <time_in_seconds>
 
 
 This command allows operators to set the duration of Combat Mode (in seconds).
