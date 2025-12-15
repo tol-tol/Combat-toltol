@@ -1,0 +1,13 @@
+name: Combat-toltol
+version: 1.0.0
+main: com.toltol.combattoltol.CombatToltolPlugin
+api-version: '1.21'
+author: toltol
+commands:
+  전투모드:
+    description: 전투모드 설정 명령어
+    usage: /전투모드 설정 <초>
+permissions:
+  combattoltol.admin:
+    description: 전투모드 설정 권한
+    default: op
